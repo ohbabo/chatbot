@@ -1,0 +1,17 @@
+# 가상환경
+chatvenv/
+
+# DB 파일, 업로드된 미디어
+instance/
+
+# 환경 변수
+.env
+
+# 파이썬 컴파일 파일
+__pycache__/
+*.py[cod]
+
+# IDE 설정 등
+.vscode/
+.env
+.env
